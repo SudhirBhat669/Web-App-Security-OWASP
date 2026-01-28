@@ -1,4 +1,4 @@
-
+<img width="2628" height="1493" alt="Image" src="https://github.com/user-attachments/assets/0c212f96-7ae0-418b-9f90-dd660bb1d004" />
 
 ## Web Application Security Basics – OWASP Top 10
 
